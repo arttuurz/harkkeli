@@ -1,0 +1,29 @@
+{
+  "lelut": [
+    {
+      "id": 1,
+      "name": "Ykä Yksisarvinen",
+      "suositusika": "1"
+    },
+    {
+      "id": 2,
+      "name": "Kalle Kirahvi",
+      "suositusika": "4"
+    },
+    {
+        "id": 3,
+      "name": "Laardi Lepakko",
+      "suositusika": "2"
+    },
+    {
+        "id": 4,
+      "name": "Seppo Siili",
+      "suositusika": "1->"
+    },
+    {
+        "id": 5,
+      "name": "Tuukka Toukka",
+      "suositusika": "0-1"
+    }
+  ]
+}
