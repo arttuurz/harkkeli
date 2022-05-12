@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arttuurz/harkkeli.git/static/css/main.b686693f.css",
+    "main.js": "/arttuurz/harkkeli.git/static/js/main.2df0bdad.js",
+    "static/js/787.986c10f8.chunk.js": "/arttuurz/harkkeli.git/static/js/787.986c10f8.chunk.js",
+    "index.html": "/arttuurz/harkkeli.git/index.html",
+    "main.b686693f.css.map": "/arttuurz/harkkeli.git/static/css/main.b686693f.css.map",
+    "main.2df0bdad.js.map": "/arttuurz/harkkeli.git/static/js/main.2df0bdad.js.map",
+    "787.986c10f8.chunk.js.map": "/arttuurz/harkkeli.git/static/js/787.986c10f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b686693f.css",
+    "static/js/main.2df0bdad.js"
+  ]
+}
